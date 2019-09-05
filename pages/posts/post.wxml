@@ -1,0 +1,12 @@
+<!--pages/posts/post.wxml-->
+<view class="postItem">
+  <view class="post-container">
+    <image class="po" src="/images/po/1.jpg"></image>
+    <view class="post-date">
+      <text>2019-04-16</text>
+    </view>
+    <view calss="po-word">
+      <text>最美的宝宝</text>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,34 @@
+/* pages/posts/post.wxss */
+.postItem{
+  background-color: #fff;
+}
+
+.post-container{
+  flex-direction:column;
+  display:flex;
+  margin-top:20rpx;
+  margin-bottom:40rpx;
+  margin-left: 0rpx;
+  background-color:#fff;
+  border-bottom: 1px solid #ededed;
+  border-top: 1px solid #ededed;
+  padding-bottom: 5px;
+  align-items: center;
+}
+
+.po{
+  width:500rpx;
+  height:340rpx;
+  margin:auto 0;
+  margin-bottom: 15px;
+}
+
+.po-word{
+  color:#666;
+  font-size:28rpx;
+  margin-bottom:20rpx;
+  margin-left: 20rpx;
+  letter-spacing:2rpx;
+  line-height: 40rpx;
+  text-align: center;
+}

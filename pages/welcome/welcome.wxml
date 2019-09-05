@@ -1,0 +1,8 @@
+<view class="container">
+    <image class="avatar" src="/images/first.png"></image>
+    <image class="pic" src="/images/房子.png"></image>
+    <text class="motto">吴　　邸</text>
+    <view class="journey-container" bindtap="onTap">
+        <text class="journey">点点滴滴</text>
+    </view>
+</view>
